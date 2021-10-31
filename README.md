@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HasanMohammadSadaqa
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on ...
 - 📫 This is my email for any contacnt .. hasansadaqa55@gmail.com 
 

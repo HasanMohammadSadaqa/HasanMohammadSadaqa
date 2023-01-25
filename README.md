@@ -1,9 +1,15 @@
-### Hi there 👋, I'm Hasan Sadaqa
-#### Full-Stack developer
 ![Full-Stack developer](https://media.licdn.com/dms/image/D4D16AQEyTDCs_CRDYg/profile-displaybackgroundimage-shrink_350_1400/0/1666251426159?e=1680134400&v=beta&t=1snwBKlOP1D5VVe-vWGhhET2IrMs1aF_gGbaQALC5rI)
 
+### Hi there 👋, I'm Hasan Sadaqa
 I'm Hasan, Full Stack Developer, learned through an intensive full-stack development bootcamp by Coding Dojo Platform.
 Experienced in web fundamentals (such as HTML, CSS & JavaScript), Python (Flask, Django frameworks), Java (using Spring Boot framework), MERN (including React) and Database: MySQL & MongoDB. Graduated after creating 3 projects from scratch with teammates, I hope to see them
+
+## Skills and Experience
+* ⚛ React
+* 💻 HTML, CSS, JS
+* Python (Flask, Django frameworks)
+* Java (Spring boot framework)
+* MERN (MongoDB, Express, React Nodejs)
 
 Skills:  REACT / JS / HTML / CSS
 

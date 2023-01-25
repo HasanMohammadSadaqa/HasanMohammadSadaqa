@@ -13,3 +13,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
+* ![image](https://user-images.githubusercontent.com/93473457/214536723-0c4f49fa-a637-4830-82d0-fbb3d2663b73.png)
